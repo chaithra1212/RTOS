@@ -27,3 +27,16 @@ Real Time Models and Languages: Event based, Process based, Graph models, Petrin
 time Languages, RTOS tasks, RTscheduling, Interrupt processing, Synchronization, Controlblocks,
 
 Memory requirements.
+
+
+Introduction: Importance of user Interface, definition, importance of good design. Benefits of good
+design, a brief history of Screen design.
+The graphical user interface: popularity of graphics, the concept of direct manipulation, graphical
+system, Characteristics, Web user, Interface popularity, characteristics, Principles of user interface.
+UNIT II
+Design process: Human interaction with computers, importance of human characteristics human
+consideration, Human interaction speeds, understanding business junctions.
+UNIT III
+Screen Designing : Design goals, Screen planning and purpose, organizing screen elements, orderingof
+screen emphasis, presentation information simply and meaningfully, information retrieval on web,
+statistical graphics, Technological consideration in interface design.
